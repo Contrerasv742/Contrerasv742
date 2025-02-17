@@ -1,8 +1,4 @@
----
-title: "About Me"
-author: "Victor Perez Contreras"
----
-# Education
+# Education 🔭
 
 School: University of California, Santa Cruz
 
@@ -49,13 +45,13 @@ I love learning more about vim as it truly makes me a more efficient programmer 
 I enjoy spending break time from my studies to improve my setup to be more effective. I maintain a config repo that contains a documentation and portable way to import my favorite system requirements to any new system. I currently primarily work in Windows but am working on creating a portable way to determine OS and install my configuration based on the system.
 
 Tools:
-    NVim:
-        + Yazi
-        + Catpuccin theme
-        + Fuzzy Finder
+***NVim:***
+    Yazi
+    Catpuccin theme
+    Fuzzy Finder
 
-    Tiling Manager:
-        + Glaze and Zebar (Windows)
+***Tiling Manager:***
+    Glaze and Zebar (Windows)
 
 <!--
 **Contrerasv742/Contrerasv742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -71,6 +67,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
